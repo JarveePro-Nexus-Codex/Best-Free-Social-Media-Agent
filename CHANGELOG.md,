@@ -1,0 +1,285 @@
+# Changelog
+
+All notable changes to **JarveePro-Nexus-Codex** will be documented in this file.
+
+The project follows a simple versioning approach so contributors and users can quickly understand what has changed.
+
+---
+
+## [Unreleased]
+
+### Added
+
+* Community contribution guidelines
+* Security policy
+* Initial documentation structure
+* Beginner getting-started guide
+* Free-first JarveePro knowledge base
+* Automation workflow documentation
+* Basic content publishing workflow
+* Content queue workflow
+* Weekly review workflow
+
+### Planned
+
+* Platform-specific workflow guides
+* Beginner examples
+* Creator workflow examples
+* Agency workflow examples
+* Campaign templates
+* Scheduling templates
+* Troubleshooting library
+* GitHub issue templates
+* Pull request templates
+* Repository diagrams
+* Video walkthrough
+* Micrograd-inspired build-from-scratch tutorial
+* Expanded workflow library
+
+---
+
+## [0.1.0] — Initial Foundation
+
+### Added
+
+* Initial `README.md`
+* Project identity: **JarveePro-Nexus-Codex**
+* Project positioning as an independent community resource
+* Free-first learning philosophy
+* Responsible automation principles
+* Initial repository architecture
+* Contribution guidelines
+* Security policy
+* Beginner documentation
+* Workflow documentation
+* Initial publishing workflows
+* Weekly reporting workflow
+
+### Philosophy
+
+The initial release establishes the project's core learning cycle:
+
+```text
+Learn
+  ↓
+Build
+  ↓
+Test
+  ↓
+Measure
+  ↓
+Document
+  ↓
+Improve
+  ↓
+Share
+```
+
+The project is designed to grow from a beginner-friendly knowledge base into a practical community toolkit.
+
+---
+
+## Versioning Guide
+
+Future releases may use the following format:
+
+```text
+MAJOR.MINOR.PATCH
+```
+
+### MAJOR
+
+Use for significant changes that substantially alter the project's structure, purpose, or compatibility.
+
+Example:
+
+```text
+2.0.0
+```
+
+### MINOR
+
+Use when adding substantial new functionality or documentation while maintaining the existing project structure.
+
+Example:
+
+```text
+0.2.0
+```
+
+### PATCH
+
+Use for smaller corrections and maintenance updates.
+
+Examples:
+
+```text
+0.1.1
+0.1.2
+0.1.3
+```
+
+---
+
+## Change Categories
+
+Use these categories when appropriate:
+
+### Added
+
+New functionality, documentation, workflows, templates, or examples.
+
+### Changed
+
+Existing material that has been substantially modified.
+
+### Fixed
+
+Corrections to bugs, broken links, inaccurate documentation, or workflow problems.
+
+### Removed
+
+Material that is no longer supported or intentionally removed.
+
+### Security
+
+Changes related to security, privacy, credentials, dependencies, or vulnerability remediation.
+
+### Deprecated
+
+Material that still exists but should no longer be used for new projects.
+
+---
+
+## Example Future Entry
+
+```text
+## [0.2.0] — Workflow Expansion
+
+### Added
+
+- Instagram workflow guide
+- Facebook publishing workflow
+- YouTube publishing workflow
+- Campaign planning template
+- Beginner troubleshooting guide
+
+### Changed
+
+- Improved getting-started documentation
+- Expanded responsible automation guidance
+
+### Fixed
+
+- Corrected broken documentation links
+- Clarified workflow terminology
+
+### Security
+
+- Added additional guidance for protecting authentication data
+```
+
+---
+
+## Documentation Changes
+
+Documentation changes are important project changes.
+
+This includes:
+
+* Corrections to platform information
+* Updated setup instructions
+* New workflow documentation
+* Changes to examples
+* Changes to safety guidance
+* Updated terminology
+* Removed outdated instructions
+
+If a documentation change materially affects how users should operate a workflow, record it here.
+
+---
+
+## Workflow Changes
+
+When modifying an existing workflow, document the reason for the change.
+
+For example:
+
+```text
+### Changed
+
+- Updated the content queue workflow to require approval before scheduling.
+- Added explicit failure handling for publishing errors.
+- Added a weekly review step.
+```
+
+This makes it easier for contributors to understand why the workflow evolved.
+
+---
+
+## Free Version Information
+
+Information about third-party software can change over time.
+
+When documenting JarveePro free-version capabilities, contributors should avoid presenting old information as permanently accurate.
+
+When appropriate, record significant documentation changes here and identify the date the information was reviewed.
+
+The official JarveePro website should remain the reference point for current product availability, features, pricing, and platform support.
+
+---
+
+## Security Changes
+
+Security-related changes should be clearly identified.
+
+Examples:
+
+```text
+### Security
+
+- Removed an accidentally exposed example credential.
+- Updated dependency security guidance.
+- Added instructions for handling authentication secrets.
+```
+
+Never place the actual secret or sensitive information in the changelog.
+
+---
+
+## Release Checklist
+
+Before creating a significant release:
+
+* [ ] Review documentation changes
+* [ ] Review workflow changes
+* [ ] Check for broken links
+* [ ] Check examples for sensitive information
+* [ ] Review security changes
+* [ ] Update the version number
+* [ ] Update this changelog
+* [ ] Review the README if the project direction changed
+* [ ] Test important workflows
+* [ ] Review open issues and pull requests
+
+---
+
+## Project Principle
+
+The changelog is more than a list of versions.
+
+It is a record of what the community has learned.
+
+When a workflow changes, document why.
+
+When an assumption turns out to be wrong, document the correction.
+
+When a better approach is discovered, document it.
+
+That history helps future contributors avoid repeating the same mistakes.
+
+---
+
+**JarveePro-Nexus-Codex**
+
+*Build in public. Learn in public. Improve together.*
