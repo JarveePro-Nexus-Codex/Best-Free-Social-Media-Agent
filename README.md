@@ -632,7 +632,7 @@ https://www.jarveepro.com/free-version.html
 
 ### GitHub
 
-https://github.com/
+[https://github.com/](https://github.com/JarveePro-Nexus-Codex)
 
 ---
 
